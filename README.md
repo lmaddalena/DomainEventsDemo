@@ -1,5 +1,7 @@
 # DomainEventsDemo
 ## How to implement Domain Events in Domain-Driven Design
+![.NET Core](https://github.com/lmaddalena/DomainEventsDemo/workflows/.NET%20Core/badge.svg)
+
 The Domain-Driven Design (DDD) is an approach to software development based on the domain entity model and their logic.
 
 A model acts as a universal and rigorous language ([Ubiquitous Language](https://martinfowler.com/bliki/UbiquitousLanguage.html)) to help communication between software developers and domain experts.
